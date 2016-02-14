@@ -1,0 +1,13 @@
+<resources>
+
+    <string name="app_name">InstaPro</string>
+    <string name="open">Открыть</string>
+    <string name="close">Закрыть</string>
+
+    <string-array name="navMenu">
+        <item>Профиль</item>
+        <item>Закладки</item>
+        <item>Настройки</item>
+    </string-array>
+
+</resources>
